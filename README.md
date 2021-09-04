@@ -16,12 +16,12 @@
 	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
     <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
   
-
-  
 <p/>
 
-<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/porfolio-1.jpg'/>
+**Hi! I am Muhammad Junaid an Android application developer from Pakistan, I am always passionate about learning something new everyday.**
+###### I'm a senior Android developer with a Graduation in Software Engineering. I always do all required communication from time to time and share genuine details only. If I am not confident in any project or any task in a project or require any research then I always prefer to inform clients prior to starting that work. I also have done countless graphic design jobs for various websites and social media marketing campaigns. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
 
+<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/pic1.png'/>
 
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

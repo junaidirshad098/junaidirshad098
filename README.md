@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+**Hi! I am Muhammad Junaid an Android application developer from Pakistan, I am always passionate about learning something new everyday.**
 
 ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
 ![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
@@ -18,8 +19,8 @@
   
 <p/>
 
-**Hi! I am Muhammad Junaid an Android application developer from Pakistan, I am always passionate about learning something new everyday.**
-###### I'm a senior Android developer with a Graduation in Software Engineering. I always do all required communication from time to time and share genuine details only. If I am not confident in any project or any task in a project or require any research then I always prefer to inform clients prior to starting that work. I also have done countless graphic design jobs for various websites and social media marketing campaigns. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
+
+###### I'm a senior Android developer with a Graduation in Software Engineering. I always do all required communication from time to time and share genuine details only. If I am not confident in any project or require any research then I always prefer to inform clients prior to starting that work. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
 
 <img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/pic1.png'/>
 

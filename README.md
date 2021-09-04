@@ -10,15 +10,13 @@
 
 
 <p>
-	<a href="https://www.facebook.com/ahnsas/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+	<a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/muhammad-junaid-7a6826185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-	<a href="https://medium.com/@alifhasnain" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-	<a href="https://stackoverflow.com/users/8521094/alif-hasnain" target="_blank">
+	<a href="https://www.upwork.com/freelancers/~016016ae75f90f7a88" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
+	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
     <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
   
-  <a href="https://www.behance.net/junaidirshad098" target="_blank">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Behance&logo=behance&style=social&url=https%3A%2F%2Ftwitter.com%2Fjunaidirshad098" /></a>
-  
+
   
 <p/>
 <!--

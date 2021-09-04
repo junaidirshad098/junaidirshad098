@@ -22,7 +22,7 @@
 
 
 
-<img alt='Porfolio' src='assets/portfolio-1'/>
+<img alt='Porfolio' src='assets/portfolio-1.jpg'/>
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

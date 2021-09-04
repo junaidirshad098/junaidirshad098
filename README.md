@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
+![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
+![Years Badge](https://badges.pufler.dev/years/alifhasnain?style=flat-square)
+![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)
+![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain)
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

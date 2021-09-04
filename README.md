@@ -20,9 +20,9 @@
   
 <p/>
 
+<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/porfolio-1.jpg'/>
 
 
-<img alt='Porfolio' src='assets/portfolio-1.jpg'/>
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

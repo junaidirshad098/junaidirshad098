@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hi! I am Muhammad Junaid an Android application developer from Pakistan, I am always passionate about learning something new everyday.**
+**Hi! I am Muhammad Junaid an application developer from Pakistan, I am always passionate about learning something new everyday.**
 
 ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
 ![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
@@ -33,6 +33,47 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+🔺What you should expect from working with me:
+<ul>
+	<li>Responsive Design</li>
+	<li>Great communication, both verbally and written</li>
+<li>Reliability</li>
+<li>On-time delivery</li>
+<li>Prototyping</li>
+<li>Long-term relationship</li>
+</ul>
+
+
+🔺My applications features:
+-------------------------------------
+<ul>
+<li>Splash Screen
+<li>Social login and Integration(Twitter, Google, Fb, Phone number, etc)
+<li>Animation(lotties,JSON)
+<li>Navigation bar/Menu bar/Bottom sheet/Fragment/Tab view /Dashboard etc
+<li>Listview/Custom Adapter/Gesture Detector/Deep Link
+<li>Permissions
+<li>Internal Storage Read/Write
+<li>Database/Firebase/MYsql/noSql/online,offline both
+<li>Networking Retrofit2/Volley (Secure request JWT Token auth)
+<li>API(PHP)
+<li>MVVM
+	<li>Live Data
+<li>Data Binding
+<li>Services
+<li>Catch GPS position
+<li>Mobile Ads integration
+<li>Take a Photo/Gallery, Camera
+<li>Social share integration
+<li>Memory management
+<li>File I/O
+<li>Network programming
+<li>Concurrency and multithreading
+<li>Publishing Android apps in the Play Store
+Many more...
+</ul>
 
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

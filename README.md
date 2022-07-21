@@ -10,13 +10,12 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 **I am an application developer from Pakistan, I am always passionate about learning something new everyday.**
 
 
-
-![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
 ![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
 ![Years Badge](https://badges.pufler.dev/years/alifhasnain?style=flat-square)
 ![Repos Badge](https://badges.pufler.dev/repos/alifhasnain?style=flat-square)
 ![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain) -->
 
 <p>
 💻 How to reach me:
@@ -28,8 +27,13 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 	<a href="https://www.upwork.com/freelancers/~016016ae75f90f7a88" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
 	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
     <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
-  
+ 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
+	
 <p/>
+
 
 
 
@@ -37,7 +41,10 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 
 <img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/pic1.png'/>
 
-<h2>Projects</h2>
+<details>
+  <summary>📃 Resume</summary>
+
+<h2>⚡Projects</h2>
 <h3 ><a href="https://play.google.com/store/apps/details?id=com.onebyte.teachingcircle" style="color:red">Teaching Circle</a></h3>
 <p>This Application solved the modern E-Learning problem or distance learning.  This app contained modules, bundles, chapters, and live and recorded lectures. This app also supports Live chat support 24/7 with the teacher</p>
 <h4>Features</h4>
@@ -112,7 +119,6 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 <li>Publishing Android apps in the Play Store
 Many more...
 </ul>
-https://github-readme-stats.vercel.app/api?username=junaidirshad098
 <!--
 **junaidirshad098/junaidirshad098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

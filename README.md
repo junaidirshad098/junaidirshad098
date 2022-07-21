@@ -1,6 +1,15 @@
-### Hi there 👋
 
-**Hi! I am Muhammad Junaid an application developer from Pakistan, I am always passionate about learning something new everyday.**
+<h1 align='center'>
+  Hi there 👋 I'm Muhammad Junaid 👨‍💻
+</h1>
+
+<p  align='center'>
+Working as an Android Developer, Handling projects, Make architecture and Leading projects
+</p>
+
+**I am an application developer from Pakistan, I am always passionate about learning something new everyday.**
+
+
 
 ![GitHub followers](https://img.shields.io/github/followers/alifhasnain?logo=GitHub&style=flat-square)
 ![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/alifhasnain?style=flat-square)
@@ -9,6 +18,9 @@
 ![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain)
 
+<p>
+💻 How to reach me:
+</p>
 
 <p>
 	<a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
@@ -20,9 +32,34 @@
 <p/>
 
 
-###### I'm a senior Android developer with a Graduation in Software Engineering. I always do all required communication from time to time and share genuine details only. If I am not confident in any project or require any research then I always prefer to inform clients prior to starting that work. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
+
+###### I always do all required communication from time to time and share genuine details only. If I am not confident in any project or require any research then I always prefer to inform clients prior to starting that work. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
 
 <img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/pic1.png'/>
+
+<h2>Projects</h2>
+<h3 ><a href="https://play.google.com/store/apps/details?id=com.onebyte.teachingcircle" style="color:red">Teaching Circle</a></h3>
+<p>This Application solved the modern E-Learning problem or distance learning.  This app contained modules, bundles, chapters, and live and recorded lectures. This app also supports Live chat support 24/7 with the teacher</p>
+<h4>Features</h4>
+<ul>
+	<li>Managed live sessions(via zoom webinar or Agora)</li>
+	<li>Courses/Chapters/Videos/Assest</li>
+	<li>Purchase Course from bank payment or Direct Payment</li>
+	<li>Market Place</li>
+	<li>Promo Code</li>
+</ul>
+
+
+<h3 ><a href="https://play.google.com/store/apps" style="color:red">Digitt+(Fintech Project E-wallet)</a></h3>
+<p>This Application offers a payroll management solution to the employee. This is actually a <b>Digital wallet</b> app. The features in this app like wallet creation, Send Money through bank transfer or digit account and offer to pay utility bills or mobile top-ups. Data is end-to-end encrypted and used  C++(CMaketList) to secure API URL and AES for data encryption</p>
+<h4>Features</h4>
+<ul>
+	<li>Wallet to Wallet Transfer</li>
+	<li>IBFT</li>
+	<li>Mobile TopUp</li>
+	<li>Card Management</li>
+	<li>Utility Bills</li>
+</ul>
 
 
 **Languages and Tools:**  

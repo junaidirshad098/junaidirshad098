@@ -9,7 +9,8 @@
 ![Gists Badge](https://badges.pufler.dev/gists/alifhasnain?style=flat-square)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/alifhasnain)
 
-
+![](https://raw.githubusercontent.com/junaidirshad098/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/junaidirshad098/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <p>
 	<a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/muhammad-junaid-7a6826185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 

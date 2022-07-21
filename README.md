@@ -35,6 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 ![Commits Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+https://github-readme-stats.vercel.app/api?username={junaidirshad098}
 🔺What you should expect from working with me:
 <ul>
 	<li>Responsive Design</li>

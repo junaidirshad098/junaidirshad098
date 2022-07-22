@@ -22,14 +22,20 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 </p>
 
 <p>
-	<a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
+	<div style="display:flex;">
+	<div>
+	<div><a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/muhammad-junaid-7a6826185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+		</div>
+		<div>
 	<a href="https://www.upwork.com/freelancers/~016016ae75f90f7a88" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
 	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
     <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
- 
+ </div>
+</div>	
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
-
+	</div>
+	
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
 	
 <p/>

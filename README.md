@@ -24,19 +24,20 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 <p>
 	<div style="display:flex;">
 	<div>
-	<div><a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a> 
-	<a href="https://www.linkedin.com/in/muhammad-junaid-7a6826185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+	<div>
+<!-- 		<a href="https://www.behance.net/junaidirshad098" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" /></a>  -->
+<!-- 	<a href="https://www.linkedin.com/in/muhammad-junaid-7a6826185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  -->
 		</div>
 		<div>
-	<a href="https://www.upwork.com/freelancers/~016016ae75f90f7a88" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
-	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
-    <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
+<!-- 	<a href="https://www.upwork.com/freelancers/~016016ae75f90f7a88" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a> -->
+<!-- 	<a href="https://stackoverflow.com/users/12705955/junaidirshad098" target="_blank">
+    <img alt="StackOverflow"src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a> -->
  </div>
 </div>	
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a> -->
 	</div>
 	
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidirshad098&show_icons=true&count_private=true&theme=dark" width="300"></a>
+
 	
 <p/>
 
@@ -53,7 +54,9 @@ Working as an Android Developer, Handling projects, Make architecture and Leadin
 
 ###### I always do all required communication from time to time and share genuine details only. If I am not confident in any project or require any research then I always prefer to inform clients prior to starting that work. In my projects, I prefer using Agile and Scrum principles in project management for flexibility and rapid review cycles and apply modern technologies that make the development process easier and faster.
 
-<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/pic1.png'/>
+<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/Frame 6.png'/>
+<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/Frame 1.png'/>
+<img alt='Porfolio' src='https://github.com/junaidirshad098/junaidirshad098/blob/main/assets/Frame 2.png'/>
 
 <details>
   <summary>📃 Resume</summary>
